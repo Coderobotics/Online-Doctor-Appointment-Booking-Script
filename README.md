@@ -1,2 +1,5 @@
 # Online-Doctor-Appointment-Booking-Script
 This script allows doctors to register and select appropriate membership plan with unique features. Patients can view doctor profiles before booking appointments. The site administrator or doctor may create and manage advanced schedules, create working time slots for each day of the week, define time off etc. Hence, we have developed the Readymade Doctor Appointment Booking Script to serve this purpose. Patient browse through doctor’s profile and read their specialty information. Patient can search for doctor according to specialty, name and location, view doctors profile pages with their information and Can choose and book an appointment at the flexible time and date and Can cancel an appointment through their own user page. Patients can view history of old appointments, Add/Change personal information after Signup/Login.
+
+Download FREE Online Doctor Appointment Booking Script
+https://www.phpscriptsonline.com/product/online-doctor-appointment-booking-script/
